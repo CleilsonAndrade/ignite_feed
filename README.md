@@ -63,6 +63,12 @@ Aplicação de uma timeline de feed de post de um blog, desenvolvido em React ut
   # Clone este repositório:
   $ git clone https://github.com/CleilsonAndrade/ignite_feed.git
   $ cd ./ignite_feed
+
+  # Instalar as dependências:
+  $ yarn --frozen-lockfile
+
+  # Executar
+  $ yarn start
 ```
 
 # 📝 <span id="licença">Licença</span>
