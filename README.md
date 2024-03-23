@@ -7,7 +7,6 @@
 # 📒 Índice
 * [Descrição](#descrição)
 * [Requisitos Funcionais](#requisitos)
-  * [Features](#features)
 * [Tecnologias](#tecnologias)
 * [Design](#design)
   * [Cores](#cores)
