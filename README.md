@@ -65,7 +65,7 @@ Aplicação de uma timeline de feed de post de um blog, desenvolvido em React ut
   $ cd ./ignite_feed
 
   # Instalar as dependências:
-  $ yarn install
+  $ yarn dev
 
   # Executar
   $ yarn start
