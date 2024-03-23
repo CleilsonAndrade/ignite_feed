@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Busca Git</h1>
+  <h1>Ignite Feed</h1>
   <p>Aplicação de uma timeline de feed de post de um blog, desenvolvido em React utilizando TypeScript para fim de estudos de ambos.</p>
   <img src="./design/desktop.png" alt="Logo" width="800">
 </div>
