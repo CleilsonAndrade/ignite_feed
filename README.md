@@ -67,7 +67,7 @@ Aplicação de uma timeline de feed de post de um blog, desenvolvido em React ut
   # Instalar as dependências:
   $ yarn install
 
-  # Executar
+  # Executar:
   $ yarn dev
 ```
 
