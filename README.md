@@ -16,7 +16,7 @@
 * [Licença](#licença)
 
 # 📃 <span id="descrição">Descrição</span>
-Aplicação de uma timeline de feed de post de um blog, desenvolvido em React utilizando TypeScript para fim de estudos de ambos. Os estudos se propõe a entender o funcionamento de componentes, seu ciclo de vida, estados, componentizacao, props do React e a tipagem estática, interface impostos pelo TypeScript. Utiliza-se o [**Vite**](https://vitejs.dev/) como servidor e libs auxiliares [**date-fns**](https://date-fns.org/), [**date-fns**](https://date-fns.org/) e [**Phosphor React**](https://www.npmjs.com/package/phosphor-react) para o desenvolvimento.
+Aplicação de uma timeline de feed de post de um blog, desenvolvido em React utilizando TypeScript para fim de estudos de ambos. Os estudos se propõe a entender o funcionamento de componentes, seu ciclo de vida, estados, componentização, props do React e a tipagem estática, interface impostos pelo TypeScript. Utiliza-se o [**Vite**](https://vitejs.dev/) como servidor e libs auxiliares [**date-fns**](https://date-fns.org/), [**date-fns**](https://date-fns.org/) e [**Phosphor React**](https://www.npmjs.com/package/phosphor-react) para o desenvolvimento.
 
 # 📌 <span id="requisitos">Requisitos Funcionais</span>
 - [x] Componentizacao<br>
